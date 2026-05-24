@@ -1,4 +1,4 @@
-# Static Corporate Site Patterns
+# Company Web Page Snippets
 
 A reference for building a fast, accessible, SEO-conscious corporate
 website on a classic LAMP-style stack, static HTML + CSS + vanilla JS
@@ -101,13 +101,13 @@ is at
 
 Companion repositories cover related patterns:
 
-- [`Valentino-Veljanovski/DISPO`](https://github.com/Valentino-Veljanovski/DISPO):
+- [`Valentino-Veljanovski/multi-region-dispatch-automation-snippets`](https://github.com/Valentino-Veljanovski/multi-region-dispatch-automation-snippets):
   Microsoft 365 + DocuSign + AI-assisted operations
-- [`Valentino-Veljanovski/Reklamation`](https://github.com/Valentino-Veljanovski/Reklamation):
+- [`Valentino-Veljanovski/internal-reclamation-case-management-snippets`](https://github.com/Valentino-Veljanovski/internal-reclamation-case-management-snippets):
   Slack-based case management
-- [`Valentino-Veljanovski/BauScope-Control-Center`](https://github.com/Valentino-Veljanovski/BauScope-Control-Center):
+- [`Valentino-Veljanovski/consent-based-3d-scan-control-center-snippets`](https://github.com/Valentino-Veljanovski/consent-based-3d-scan-control-center-snippets):
   Role-based Slack platform with DocuSign HMAC
-- [`Valentino-Veljanovski/BauScope-3D`](https://github.com/Valentino-Veljanovski/BauScope-3D):
+- [`Valentino-Veljanovski/bauscope-3d-web-snippets`](https://github.com/Valentino-Veljanovski/bauscope-3d-web-snippets):
   Next.js B2B landing page patterns
 
 ---
